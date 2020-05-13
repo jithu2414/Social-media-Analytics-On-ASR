@@ -1,2 +1,9 @@
 # Social-media-Analytics-On-ASR
-Twitter scraping 
+
+Twitter scraping using python libraries
+
+### Installation of libraries:
+
+#### Tweepy:
+    
+         - pip install tweepy
