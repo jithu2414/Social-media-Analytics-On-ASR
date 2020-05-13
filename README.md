@@ -1,4 +1,4 @@
-# Social-media-Analytics-On-ASR
+# Social-media-Analytics-On-QSR
 
 Twitter scraping using python libraries
 
