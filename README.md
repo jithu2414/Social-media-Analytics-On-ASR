@@ -6,13 +6,13 @@ Twitter scraping using python libraries
 
 #### 1.Tweepy: 
     
-         - pip install tweepy
+          pip install tweepy
 
 
 #### 2.Nlppreprocess: This library is a pre-processing package for NLP task
 
-        - pip install nlppreprocess
+        pip install nlppreprocess
 
 #### 3.Spacy:
 
-        - pip install -U spacy
+        pip install -U spacy
